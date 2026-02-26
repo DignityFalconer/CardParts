@@ -28,7 +28,7 @@ CardParts is an iOS Card UI framework that uses MVVM and automatic data binding 
   s.swift_version = '5.0'
   s.source_files = 'CardParts/src/**/*'
 
-  s.dependency 'RxSwift', '~> 5.0'
+  s.dependency 'RxSwift', '~> 6.0'
   s.dependency 'RxCocoa', '~> 5.0'
   s.dependency 'RxDataSources', '~> 4.0'
   s.dependency 'RxGesture', '~> 3.0' 
